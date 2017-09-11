@@ -37,7 +37,7 @@ osCommerce/OM/Config/settings.ini:
 [Setup]
 offline = "true"
 
-For customizations [http://www.phpfreelanceprogrammer.com/oscommerce-programming.html], please copy the file with the same directory structure to
+For customizations (Freelance oscommerce developer)[https://www.phpfreelanceprogrammer.com/oscommerce-programming.html], please copy the file with the same directory structure to
 the custom namespace located at:
 
 osCommerce/OM/Custom
